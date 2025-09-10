@@ -1,3 +1,3 @@
 .venv
-./flowers-recognition/
-./caltech-101/
+.flowers-recognition
+.caltech-101
